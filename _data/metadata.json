@@ -1,5 +1,5 @@
 {
-  "title": "John Doe",
+  "title": "Debangshi Roy",
   "url": "https://myurl.com/",
   "description": "Photographer and Web Designer",
   "feed": {
@@ -9,7 +9,7 @@
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Debangshi Roy",
     "email": "youremailaddress@example.com"
   }
 }
